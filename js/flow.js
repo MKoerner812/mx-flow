@@ -1,3 +1,4 @@
+// Copyright 2024 Max Körner
 ELEMENT_CLASS = 'element'
 REMOVE_CLASS = 'remove'
 
